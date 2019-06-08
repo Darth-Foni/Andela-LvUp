@@ -1,1 +1,1 @@
-# Andela-LvUp
+Codestudio Javascript MasterClass
